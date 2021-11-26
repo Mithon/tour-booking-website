@@ -1,0 +1,8 @@
+.text-centers,h1{
+    color: rgb(14, 11, 11);
+    background-color: rgb(192, 232, 245);
+}
+.text-muted{
+    color: white;
+    background-color: rgb(88, 91, 92);
+}

@@ -1,0 +1,10 @@
+.header a{
+    margin-right: 10px;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+.header{
+    background-color: rgb(93, 106, 226);
+    padding: 15px;
+}

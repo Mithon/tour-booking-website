@@ -1,0 +1,11 @@
+.dancers-container{
+    border-right: 1px solid gray;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 15px;
+    background-color: rgb(255, 255, 255);
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}

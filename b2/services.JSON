@@ -1,0 +1,56 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "Diploma",
+        "name": "Neurological Services",
+        "img": "https://medschool.cuanschutz.edu/images/librariesprovider61/default-album/n_fellowship.jpg?sfvrsn=be7c74b9_4",
+        "price": 6836,
+        "duration": "2 month",
+        "text": "Neurologists diagnose, treat and manage disorders that affect the central nervous system (the brain and spinal cord) and the peripheral nervous system "
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Sort",
+        "name": "Surgical Services",
+        "img": "https://media.istockphoto.com/photos/hand-of-surgeon-in-blue-medical-glove-holding-a-scalpel-with-blade-picture-id1174344526",
+        "price": 2322,
+        "duration": "3 month",
+        "text": "The Department of General Surgery provides surgical interventions that focus on the endocrine system, gastrointestinal tract, liver, colon, and other major parts of the human body"
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Diploma",
+        "name": "Dental Services",
+        "img": "https://www.thelanguageisland.com/wp-content/uploads/2018/09/Tips.jpg",
+        "price": 8978,
+        "duration": "5 month",
+        "text": "The highest-paid dental specialty is oral and maxillofacial surgery. Surgeons, including oral and maxillofacial surgeons, make a national average salary"
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "sort",
+        "name": "Ophthalmology Services",
+        "img": "https://bhtclinic.com.tr/wp-content/uploads/2019/07/goz-sagligi-ve-hastaliklari.jpg",
+        "price": 6465,
+        "duration": "2 month",
+        "text": "Ophthalmology is a branch of medicine dealing with the diagnosis, treatment and prevention of diseases of the eye and visual system"
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Diploma",
+        "name": "Cardiology Services",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMeP94qmr_O0t1rDIduB5akaOJiANCA_ayw&usqp=CAU",
+        "price": 8978,
+        "duration": "5 month",
+        "text": "Many patients who are referred to cardiologists are older people with a history of things like congestive heart failure, heart attacks or atrial fibrillation, otherwise known as irregular heart rhythms,"
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "sort",
+        "name": "skin care Services",
+        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUSFBgSEhIYGBgYGBgZGBgYERgSGBgVGBgZGRgYGBgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjQkJSs0NDQ0NDQ0NDQ0NDQ0NjQ0NDQ0NDQ0NDQ0NDQ0NDQxNDQxNDQ0NDQ0NDQ0MTQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAACAAEDBAUGBwj/xAA6EAACAQIEAwUFBwMFAQEAAAABAgADEQQFEiExQVEGImFxkROBobHBByMyQlLR8BRy4RVigpLxwjP/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAmEQACAgICAQQCAwEAAAAAAAAAAQIREiEDMUEEIlFhE4FCcZEU/9oADAMBAAIRAxEAPwD0UrGKyW0YicDRBFaOBDCwlSTQAgQgIYSLTHQAwgI+mOBAB1E4v7Qu1YwqHD0W+9cd8g7oh6Hkx+A906vNMwTC0Xr1D3UUm3NjwVR4k2Hvnz3meMevUerUN2dizeZPLw5Cb8cb2aRRQqsWNzAEPTf+fWbfZ7IGxLhUW/UkHSo8eU1lJRVs1jFydIzcNQY8Fv5XM38FkddwLU3/AOptb0np+R9maVBR3QzdSB8BynRJTA4C0xc2+tGyhFd7PJsN2TrHih9P83mth+xb8WNv55T0jREEktSfkeSXSOIodklXj8h+0vJ2dX/wW+U6nTFpixHmYtLKhTG3zkeMwgdbETdZZWq0o3EFI4DOskGk2Hw+InBY/LzTbb3Wvv8Az3z2/EYcMLETj87yK4JA26dPKTGTiynFSR5ojkHjt/PSek/Zln5D/wBHUe6vdqV79xxcsm/Ii58x4zz/ADLAtTY7eR4QcsxTU3V0NnRgykcmU3HynRSktHLNVpn0fGlbK8cuIopXTg6BrdD+Ye43HulqZGFDQTCMYxWA0UUULAhtFaPHtJAELCAiEMCFANpitCjgyqKjFy6I7RwIL1LHwhiTi7G+OVnm/wBrGZn7rCKdrGo4676UB9HPpPMKs9P+0bsy7s+NpOzkKC6G3dRABqQjkALlT4m/KeWk3M6IViVjWjQyTKHxVVaajxY8Aq8zPaskyxMNTFOmvDibbk8yZz3YTKRRoh2HfexY9ByWdgkxlLJnTCOKLKSZZXQydIIGSiFBWHLIYJjQjBgAxkTSRpG0llIgdZWrUgbgjjLTyFpLKRxfaXIgyFlG08yxtA02367HrPd66gggzzLtflwVtuHI/Qx8cqdEzjkjuvsyx4qYU077o/Dori4+IadjPJPsnxRXEPTvbUhBB34bj0sfWetxz1I5GtjRoUaTZI0UeKAEAjiMIiwHOJKyo8cpdBCFKhxIuJY13EpI2XBXYL1oOHr6iR0mJn2YDDspbZXvv/uH+DIcizdKrsqtfgfdwkuXuo6Vx+210dHXEDBve68x++0lbcSnhWtUcddLeot/8yn2Qlph41Lggi4IIPkdjPKck+zzEuVqVNCLe4V3Jc24XCqQOR4z1zETKo5iALMbWJHHoYOWIKGWw8Bl5pIFZht0v9ZcVF6zLxOaC3dkmW4TEVd3GheRI3byXl75lmk6Ss1caVydGqi+MIOAbXhf6cbWFT4CKnlZB1FyT5bSrfwYucfklBhSOohXjw6wRUmikhVe0TRpHrjF47CgmkbSN6wEoYnN6aficeXEyW0Uky40hYTGqdpqd+6CfSEmfKfxIyjra8ltFUy7XM4rtgmoHwnXtXWoNSMCOoM5jtRSOjUILsT6Oa7B4j2ePpFjszFDvzZSq/Eie5TwDKwVrK4IGl1a/SxBuPDae/kS+ZbTOSQ0UeNIRA0UeKOhFNnsJm4yq3FCL81Y29DL1ZWA7u/hwMxcXXHAgqfEWkSdHpQXwU6uYspGpSLHz+U6TAV9ag9ROSqrq4NeauSuyJa5IBkwk0zXkisdF3tDhg9I3F9Pe4dNj8CZzOSELXXSNjcG3S3+BOhzLHAo46qw9RaYvZ2hZmqHl3R8z9ISdyVBDUHZ2AqDTKdGxqk3/Ko+LTPxeOCg7ytlmIJBqHi3D+0cP398ty3RkoOmzpsVwnCYp++wAudTbX2G53mpmGf+zUlrWH8Eo9nMMa7qX31tqby428uXvmc3kXC+NOzo+zuUBAK9UXY7qLbKORt+ozeqV7iw2/aSVhYACVrcpVY6X7ORyc3lIjYmOzm97wyLiRHj8ZDYFqhVv3TvKWLpmm1x+E8PA9JMhsbyw49ohU9P/DNO1XkSeLvwZ+qV61a0mortY8Rt6SnjxaFtqzdLZkZ1mDqhFPidvKch/RVqj9fE7D/M6l1ubmW8Jhwf5YevXyiTZrSSM3LcsSmAW7zdT+02VZCLfSGVpCw9pSudgNViT53+kr16IG428QdSn3gbQakhJxZFVoaG10x/cOo/eNjsMKiEdRHVyNjLai4jiyJqtnnOT4TViTRNrG+x59fDrPbbTyGn93mCnkXA95NreRuR756+ZrPaRxTVMaKKKJGYoooowKtTaZGMa/Ka1c7TJqrdpEz0YlH2C24Q6ICqbSc0xEKJPD3zNGlmdj6HdFzueIvtDy1bLoXmePhzMt4nD6t2HkJRKtTN1269INVKylK1Q2asDakvM7jwHH+eMlakAAmnUx2VQbbngBMGvXqGoGXiPePK0381qphHQNUbWV3YcFJ2NrbgbcfGF3bE9VFd7OO7Y4N6NZKbsD3VcgcAWv62sRfwM7PsGoYhuiG3qP2nCdrsS9TFAvULgomk7bAFhtbzvfxnZ9ka3szTPJhpPv4fG0uVJKujD3NSy7O2q8TIXJ5CXKoFr9ZWYTOapmMXaGoP+qw8/fzgO2/8tBZY4EjLVFUEBeWqC29JWUS0r2Uk8us0g92TLozqJuzeZlTNKe0kwFTVdupJ9TJMaNpcdxRvVM57E0mprrCFzyVdiSep5CZWPwtapSZmqlLW7iXWy33JYbnbpbnOvorDq4S+8uKp2KUrVHjNfKqrFtaKiqoUEVvaM7sdmUcl5aTvw3O8u6MVhGC0azOh/KTsPDfj5iemVst1cb/EetoqeToN9A9OkqU76RMY49uzEyl3qIDUUq3MFSPnNlE0i0vphwo4SDEbTNKmW5Wjz3NbJimLbLe5O/dtwbb1nq1LFpUtpqK1xfY3vtfaeWdrMH7SuQBsQpPwvNrKse5rIirsGUXuevTpHKSSSM/w52z0CKKNA4x4o0UdgVKxlBl3MvVTILcYpI70yNaUsLSsIdFb2+MmZYRiJspPTlOthdQtaazJIykJRsqMqObpYEJUS421rfy1AmUvtDw5LpUA/Lb4kH5idZWohuUqZjgvbpofiPwtzA5g9eXpM3Gk0i1J5qX6Z5++W6lRiOC8ffcfOdBhEsiDoPrNOpkOtQhqEAW/Ctjt75oUMpRVA3a3U/taCi6oqTV2aWU44VV0k94cfHxltqRmdTwaLYqtiOBBIMvUsSee/wA5SjapnJKO7iAyx0STGoh3Jt5yji86w9H8VRb9AdTf9RvM3CKe2CyekmXEpTG7SZkEX2SHvP8ABeZ9/CZ+N7VM+1FNP+5/ov7n3TIw9F3bW7EkncmS5axib8fC08p/4dNk9OyCW8ZwkODrKu14WMxK24zeNKIStyIaLTRQzKpAHvKZdw9UGOLJaLWmMwjhpG7y3RKIazzNr1Lm0uYh5ku/fEzfZoloy8Yq1K7JzAX4D+ek1+z+CHti9vwjbz4fWZy4b732g/NxM6bJqNg7dTb04/SQllIOSWPHr4NOKPaMZtiecKKKKFAUnaQ6eA6mVziLmWabb36D5ybs76ot0VsD6RyZAtayj+c4DYkSk9EvsnZ5GziVXryu+JiboaRfLxMR1mNVx9ucrnHPUOlFLE8hvIzRpi+zYrYpV5yEZkBtM3GYOtTQVH3BNiA1yvmeEymqEEE2tz43tJlJlRjGStbOoXMx+oR1zEdZy1VNyIPsBx5xZMvCJ1r49GFiRvxE5R6KI7hAAt7jwB5DwiCMPzn1gohdrkk+fORJ32OKUeiVV2JtJMTmvsktTpO7dFAHqTLdGheWVwvSCWwcl5MjLs1qOL1KJQ77a9Y95sI+PzZlW6Uy7HgoNvU8hL1fBsZHRy9hK2TcSnkucViPvaOg9A2r6CbhrMvfHmRAp4S3GWHTa0eyW0T0MbccZI9eYNVjTN/yn4SdMVfnGpPyJx8ou1620zne9z4H9oGIryKn3gQTxsPj/iF7DHRcpHa7Gwv8BOny0fdqeu/rw+FpzGEwJqMFBJHyA5mdgiAAAcALDyE14l5Of1ElSiKKPGM1o5Boo8UKA5FFI3kwxRuZE9UHifcJG77WAtOV/R6X9lv+q/CvQC/naM9aQ4XCu24FvE7D/Mtrli8Xct4Duj9402ZynGL2yiazOdCKWPh9TylqlljH/wDR7eC7/GaNKmqCyqAPASQGHfZhLnfUdFJMnpDiCfNj9Jew+HSmLIoXyHHzPOODDEtJGUpyfbHdQwKkXB2I8Jg4ns1qbu1LL4rdgPkZvAwgYOKl2VDllDpnFZjR0VGXofhykSCavaGlapq/Uo+G30mdSXeYyVSZ6PHLKKZXdSTblJFrpT/EQLS5/T33nO512eL1BUDta1ityQDyYD6RRjfZd2bdPNV/KB5kw/8AVj+oD0kGU5dSW2pl4i4aw7rAADz1XnTYfKKA1poQ38BcAjb6zRcbfQpcvHHwYf8Aq/8AuB9JE2bH9YA8xOsTA0tAUItrcbD1BgpgqQTToW1t+6N9pf4n8kf9EF/E5Rc3P6/lHftAijvkW6jabdbJKJVU0qDxJsLna5tOXzvKkfUKZH5tIWx4Cwv/AMvgJGDXZa5OOWki+mY06o7jg++QqtmNuEzez/ZkUT7R2JbfSOAF+JPUzozRABMmSpitIzXvNrI8vWqr6wbXWxBIIO+4mUEu3lOoyGnppX/UxP0+kcFb2Zc8nGOi7gsGlIWQHfiSbky1BEKdUVSPPk23bFBMeNKEKKNFADk8NgGbgP8AkeHu6zVoYNE3tc9T9Byk6SQCciRrLmlL6AtGIk1ozLKoyIYhHYRogCEMGRAwgZSAkBjgwAY94AZ2e0dSBv0n4H+fGYSLOudAwKngRYzl69I03Knl8pE15O3007jiWaG4kppAixlbDvYzRQSUbPRk4nBjmoK+V41LCoTuPPff39ZsGnIHwoPKx8I6NI8nhgjBKRs7gdPaPb0vaN/RoBuXPhqa1ulr2ibBvyc28pE2Bfm59I7+g9vyR1KVNT3VAtzvv68pBSQXsosPCWRgOpJ98nWhYbCLYOaSpDIsDFGwllUAlPGPdrdINGSeyuichxJnX4ZNCqnQAfvMHJ8PrfWfwpw8W5ToRKiqRy+onbxJBCEAGPebxZzhRo0YmXYDxRoorAz0MmWVkaTq05kBJGMa8ZjKAjeDHYwIgCEcGBCECQwY4giPeOwDvKWY4QVFuPxDh4+Es3jgxFRk4u0cwj22M0sNUvMD2xVijcASAeY34eUuYfE23Bmfk9SrR0CCSKJQw+IB5y6jy0yGiwqQWURBpGXlEgOshbaSVHAmbisWBzibRSRJWrhZmpqqMFXixlbEYrVzsJbySoPaIB13PXYyVsJe2LZ1WFoimgReXxPMywJGskEtHnt3thCPeDHvLQh7xXg3jXlWAV4oN4oWBloZKrSAQgZzJkljXBLQA0V5VjsImDFFAQ4hCMIUYCiMUa8QCvEDBigM47Fr94/97fMyEEjhLNbd2PVj84GiYs9mHSCpYsiXkzS0zzTkdSleFtBSZrnNzBOaGYn9NCFG0MmGKLmJzM9ZnVcWzcB6x3ox0pRhSI0Uk3YzZyIWqp5/SUAkvZSbVU/uEqPZnybiztFhiRKZIDNUeWFETBvGJlAPeMTBJgloAHeKBqijAz44MCPeYEkgMISMQhAAoQjCOIwCigxRlD3jGKIwJGmdmuOCDQp7x4+A/eNjsyC3Wnuf1ch5dTMR7nc85LkdfDwN+6QywrRIskVZmd4lWJkkqrC0x0KysEgskt6YikVBZRKRtEtskhZYwshIk2DfS6t0YH0MErEojQpK1R2ymEGlLAVtaK3O1j5iWtU1TPKap0SaoJaDqjFpViCJgkwSYJMQBXigXjyhFEVl6w1cHgR6zPaiZC9NhMLO1+li+mbEMGYa1HHAn1k6Y1xx3hkjOXpJLpmveODM5MwHNfSTDGJ1PpGmZvgmvBcvFeZlTMeSr7zvKtXEM3Fj9PSDkkaQ9NJ96NSvjUTnc9B+8ysTi3qbXsOg+vWQwtMlybOmHBGO+2RaIvZywFjFYqNiDRCQQmEdRALCUSQCMohgRiG0xwkMLJFSMVlR0ld1l6qsrFYAmV9MQSWdEf2cKCybLMR7NtJ/C3wPWbl5zxSXcJiyO63Dl4Sos5ebiy90TUvGvADg7iK8o42FeMTGvFGIUUUUAKpSRuktaYJWZ0epZRenI/Zy86SI05LRaZV0ReylnRHCQodlJqUjZLS+6SB6cTQ0ysqyS0L2RjaTABCPaIR4xAMsdBCMkRIxABYaiSaYSJChWJFkgEQWGI0hNlWsJAFlqoICrAPBFpj2kpEAiAwCIJkhgkQAKjWK8Jep4gN4GZ6LvJdEFJmU+KMjSEeUqdQrJxiBzEtNHJLgkutk0Ui9uvj6RR2ifxT+AxEYopB6BG0jaKKJjQMcRRRIYzQDFFBggWkbRRRFAxjFFEMQk1OKKUiX0SQliilIgOOIooAV3iEUUQDGMYooFEZjGKKAB05MsUUSEOYhFFGIKKKKAH//2Q==",
+        "price": 6465,
+        "duration": "2 month",
+        "text": "dermatologist is a doctor who specializes in conditions involving the skin, hair, and nails. A dermatologist can identify and treat more than 3,000 conditions."
+    }
+]

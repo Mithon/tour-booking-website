@@ -1,0 +1,17 @@
+.service{
+    display: grid;
+    
+    }
+    
+    .service-single{
+    background-color: rgb(202, 196, 196);
+    }
+    .service-single img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+        width:200px;
+        height: 150px;
+      }
+    
